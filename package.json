@@ -1,0 +1,17 @@
+{
+  "name": "cool-math",
+  "version": "1.0.0",
+  "description": "Some math functions you may need it",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "github.com/marechal-dev/cool-math"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "Pietro Piva Vieira <pietro.developer@gmail.com>",
+  "license": "MIT"
+}
